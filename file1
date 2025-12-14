@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 this is from git clone
 I can push it from git
 now modify and try to access from git
+=======
+this is file1
+
+>>>>>>> master
